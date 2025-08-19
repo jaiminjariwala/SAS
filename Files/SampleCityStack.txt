@@ -1,0 +1,9 @@
+Athens GA
+50 83
+21 105
+Richmond VA
+48 79
+19 97
+Baltimore MD
+45 71
+10 89
