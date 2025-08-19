@@ -15,7 +15,7 @@
 data customers;
 	input Name $10. Product $6. Price_Paid Dollar7.2;
 	datalines;
-Lindell    Boat1 $678.23
+Lindell    Boat1 $678.23	* dollar_sign+digits+period = 7 and .2 means 2 decimals;
 Noria      Boat2 $724.68
 ;
 run;
