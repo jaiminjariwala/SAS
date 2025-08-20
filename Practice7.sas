@@ -33,7 +33,7 @@ run;
 
 
 
-/* Two-Way Frequency (No Options) - CROSSTABULATION */
+/* Two-Way Frequency - CROSSTABULATION */
 proc freq data=sashelp.baseball;
 	tables Division*League/NOROW;	*Looking at frequencies: Division v/s League;
 run;
